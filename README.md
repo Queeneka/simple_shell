@@ -73,3 +73,4 @@ git clone git@github.com:Queeneka/simple_shell.git
 ## Authors:
 
 - *Eka Endurance* - [@Queeneka](https://github.com/Queeneka) 
+- *Eka Favour* - [@Am-Favoured](https://github.com/Am-Favoured)
